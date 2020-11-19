@@ -5,14 +5,15 @@ Pod::Spec.new do |s|
   s.name             = 'GotokWebRTC'
   s.version          = '0.0.1'
   s.summary          = 'webrtc sdk'
+  s.platforms.ios    = '10.0'
   s.description      = <<-DESC
-    WebRTC SDK for recordly.
+    WebRTC SDK for Gotok.
                          DESC
-  s.homepage         = 'http://www.recordly.app'
+  s.homepage         = 'http://www.gotok.app'
   s.license          = { :file => './LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
-  s.source           = { :path => '.' }
-  s.vendored_frameworks = 'WebRTC.framework'
+  s.author           = { 'Gotok' => 'onye@gotok.app' }
+  s.source           = { :git => "https://github.com/GotokHQ/GotokWebRTCIOS.git", :tag => "main" }
+  s.vendored_frameworks = ' "Frameworks/frameworks/WebRTC.framework"'
   s.ios.deployment_target = '10.0'
 end
 

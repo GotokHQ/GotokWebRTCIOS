@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'GotokWebRTC'
-  s.version          = '0.0.2'
+  s.version          = 'v0.0.2'
   s.summary          = 'webrtc sdk'
   s.description      = <<-DESC
     WebRTC SDK for Gotok.

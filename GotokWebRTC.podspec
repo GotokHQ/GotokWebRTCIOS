@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.license          = { :file => './LICENSE', :type => 'Multiple' }
   s.author           = { 'Gotok' => 'onye@gotok.app' }
   s.source           = { :git => "https://github.com/GotokHQ/GotokWebRTCIOS.git", :tag => s.version,  }
-  s.vendored_frameworks = 'Frameworks/frameworks/WebRTC.framework'
+  s.vendored_frameworks = 'Frameworks/frameworks/WebRTC.xcframework'
   s.ios.deployment_target = '10.0'
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end

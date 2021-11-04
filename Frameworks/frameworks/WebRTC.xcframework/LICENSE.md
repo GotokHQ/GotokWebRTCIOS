@@ -216,7 +216,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets &quot;[]&quot;
-      replaced with your own identifying information. (Don&#x27;t include
+      replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
       file or class name and description of purpose be included on the
@@ -322,7 +322,7 @@ record keeping.)
  *    &quot;This product includes software developed by the OpenSSL Project
  *    for use in the OpenSSL Toolkit (http://www.openssl.org/)&quot;
  *
- * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS&#x27;&#x27; AND ANY
+ * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
  * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
  * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
@@ -359,7 +359,7 @@ record keeping.)
  * included with this distribution is covered by the same copyright terms
  * except that the holder is Tim Hudson (tjh@cryptsoft.com).
  * 
- * Copyright remains Eric Young&#x27;s, and as such any Copyright notices in
+ * Copyright remains Eric Young's, and as such any Copyright notices in
  * the code are not to be removed.
  * If this package is used in a product, Eric Young should be given attribution
  * as the author of the parts of the library used.
@@ -378,13 +378,13 @@ record keeping.)
  *    must display the following acknowledgement:
  *    &quot;This product includes cryptographic software written by
  *     Eric Young (eay@cryptsoft.com)&quot;
- *    The word &#x27;cryptographic&#x27; can be left out if the rouines from the library
+ *    The word 'cryptographic' can be left out if the rouines from the library
  *    being used are not cryptographic related :-).
  * 4. If you include any Windows specific code (or a derivative thereof) from 
  *    the apps directory (application code) you must include an acknowledgement:
  *    &quot;This product includes software written by Tim Hudson (tjh@cryptsoft.com)&quot;
  * 
- * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS&#x27;&#x27; AND
+ * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
  * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
  * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
  * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
@@ -552,7 +552,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 /*
  * Copyright(c)1995,97 Mark Olesen &lt;olesen@me.QueensU.CA&gt;
- *    Queen&#x27;s Univ at Kingston (Canada)
+ *    Queen's Univ at Kingston (Canada)
  *
  * Permission to use, copy, modify, and distribute this software for
  * any purpose without fee is hereby granted, provided that this
@@ -561,13 +561,13 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * copies of the supporting documentation for such software.
  *
  * THIS SOFTWARE IS BEING PROVIDED &quot;AS IS&quot;, WITHOUT ANY EXPRESS OR
- * IMPLIED WARRANTY.  IN PARTICULAR, NEITHER THE AUTHOR NOR QUEEN&#x27;S
+ * IMPLIED WARRANTY.  IN PARTICULAR, NEITHER THE AUTHOR NOR QUEEN'S
  * UNIVERSITY AT KINGSTON MAKES ANY REPRESENTATION OR WARRANTY OF ANY
  * KIND CONCERNING THE MERCHANTABILITY OF THIS SOFTWARE OR ITS
  * FITNESS FOR ANY PARTICULAR PURPOSE.
  *
  * All of which is to say that you can do what you like with this
- * source code provided you don&#x27;t try to sell it as your own and you
+ * source code provided you don't try to sell it as your own and you
  * include an unaltered copy of this message (including the
  * copyright).
  *
@@ -868,7 +868,7 @@ The LLVM Project is under the Apache License v2.0 with LLVM Exceptions:
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets &quot;[]&quot;
-      replaced with your own identifying information. (Don&#x27;t include
+      replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
       file or class name and description of purpose be included on the
@@ -1184,7 +1184,7 @@ The LLVM Project is under the Apache License v2.0 with LLVM Exceptions:
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets &quot;[]&quot;
-      replaced with your own identifying information. (Don&#x27;t include
+      replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
       file or class name and description of purpose be included on the
@@ -1494,7 +1494,7 @@ products derived from this software without specific prior written
 permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-``AS IS&#x27;&#x27; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
 A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
 OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
@@ -1535,7 +1535,7 @@ FFTPACK license:
 http://www.cisl.ucar.edu/css/software/fftpack5/ftpk.html
 
 Copyright (c) 2004 the University Corporation for Atmospheric
-Research (&quot;UCAR&quot;). All rights reserved. Developed by NCAR&#x27;s
+Research (&quot;UCAR&quot;). All rights reserved. Developed by NCAR's
 Computational and Information Systems Laboratory, UCAR,
 www.cisl.ucar.edu.
 
@@ -1543,7 +1543,7 @@ Redistribution and use of the Software in source and binary forms,
 with or without modification, is permitted provided that the
 following conditions are met:
 
-- Neither the names of NCAR&#x27;s Computational and Information Systems
+- Neither the names of NCAR's Computational and Information Systems
 Laboratory, the University Corporation for Atmospheric Research,
 nor the names of its sponsors or contributors may be used to
 endorse or promote products derived from this Software without
@@ -1629,7 +1629,7 @@ contributors may be used to endorse or promote products derived from
 this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-``AS IS&#x27;&#x27; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
 A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE FOUNDATION
 OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
@@ -1678,7 +1678,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * Hi Wilco,
  * I saw your sqrt routine from several web sites, including
  * http://www.finesse.demon.co.uk/steven/sqrt.html.
- * Just wonder if there&#x27;s any copyright information with your Successive
+ * Just wonder if there's any copyright information with your Successive
  * approximation routines, or if I can freely use it for any purpose.
  * Thanks.
  * Kevin
@@ -1707,7 +1707,7 @@ are met:
    notice, this list of conditions and the following disclaimer in the
    documentation and/or other materials provided with the distribution.
 
-THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS&#x27;&#x27; AND
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
 ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
@@ -1727,7 +1727,7 @@ version 1.2.11, January 15th, 2017
 
 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
 
-This software is provided &#x27;as-is&#x27;, without any express or implied
+This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
 arising from the use of this software.
 

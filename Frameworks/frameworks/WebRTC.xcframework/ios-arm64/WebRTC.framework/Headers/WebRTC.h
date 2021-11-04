@@ -90,6 +90,7 @@
 #import <WebRTC/RTCVideoEncoderVP9.h>
 #import <WebRTC/RTCVideoEncoderAV1.h>
 #import <WebRTC/RTCNativeI420Buffer.h>
+#import <WebRTC/RTCNativeMutableI420Buffer.h>
 #import <WebRTC/RCAudioDeviceModule.h>
 #import <WebRTC/RCAudioMixerSourceAdapter.h>
 #import <WebRTC/RCAudioMixerObserver.h>
